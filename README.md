@@ -10,4 +10,12 @@ Here, certain libaries are used such as :
    - pandas
  
  Files :
-   - 
+   - WebcamAccess.py
+       To access the webcam for face recognition.
+   - PictureUploader.py
+       To create data to train a neural network for face detection.
+   - FaceDetection(training).py
+       For training the neural network.
+   - FaceDetection.py
+       For testing the model.
+   
